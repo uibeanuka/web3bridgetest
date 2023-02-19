@@ -1,0 +1,29 @@
+{ 
+  "description": "the ugly truth of life is that as you look it gets beautiful",
+  "external_url": "https://www.twitter.com/uibeanuka",
+  "image": "https://ipfs.filebase.io/ipfs/QmQEV4UtS56P8CN4s4dS7jyG1r6NuvCGfjyZx77mW14h2y",
+  "name": "Decode ", 
+  "attributes": [
+    {
+        "trait_type": "owner",
+        "value": "Decode"
+
+  },
+    {
+      "trait_type": "Value", 
+      "value": "blue"
+    },
+    {
+      "trait_type": "weight", 
+      "value": "fifty"
+    },
+    {
+      "trait_type": "how", 
+      "value": "beauty"
+    },
+    {
+      "trait_type": "color", 
+      "value": "pitch"
+    }
+]
+  }
